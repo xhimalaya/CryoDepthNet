@@ -1,0 +1,7 @@
+apache-airflow-providers-postgres
+apache-airflow-providers-redis
+apache-airflow-providers-http
+pandas
+numpy
+requests
+psycopg2-binary

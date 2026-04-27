@@ -1,6 +1,9 @@
 apache-airflow-providers-postgres
 apache-airflow-providers-redis
 apache-airflow-providers-http
+apache-airflow-providers-standard
+apache-airflow-providers-fab
+apache-airflow-providers-celery
 pandas
 numpy
 requests

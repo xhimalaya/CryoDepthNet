@@ -3,7 +3,7 @@ apache-airflow-providers-redis
 apache-airflow-providers-http
 apache-airflow-providers-standard
 apache-airflow-providers-fab
-apache-airflow-providers-celery
+apache-airflow-providers-celeryy
 pandas
 numpy
 requests
